@@ -1,0 +1,104 @@
+{
+  "tabs": {
+    "movement": "移动",
+    "combat": "战斗",
+    "visual": "视觉",
+    "esp": "透视",
+    "teleport": "传送",
+    "world": "世界",
+    "settings": "设置"
+  },
+  "world": {
+    "global_speed": "全局速度",
+    "global_speed_warning": "(可能跳出至登入界面)",
+    "global_speed_slider": "速度值: %.2f",
+    "auto_quest": "自动任务",
+    "auto_quest_delay": "间隔: %.1fs",
+    "auto_fish": "自动钓鱼",
+    "auto_loot": "自动拾取 (银行道具)",
+    "auto_tp_loot": "自动传送拾取 (传送+拾取)"
+  },
+  "combat": {
+    "god_mode": "无敌",
+    "infinite_stamina": "无线体力",
+    "always_crit": "必定暴击",
+    "player_speed": "玩家速度",
+    "player_speed_slider": "值: %.2f",
+    "multi_hit": "倍功",
+    "multi_hit_slider": "段数: %d",
+    "no_skill_cooldown": "技能无冷卻時間",
+    "unlock_all_awaken": "解锁全部",
+    "mob_vacuum": "怪物吸引",
+    "mob_vacuum_range": "范围: %.0fm"
+  },
+  "movement": {
+    "speed_hack": "速度修改",
+    "speed_hack_slider": "速度值: %.0f",
+    "no_clip": "自由移动",
+    "no_clip_slider": "穿墙速度: %.0f",
+    "vehicle_speed": "车辆速度",
+    "vehicle_speed_slider": "车辆速度: %.0f km/h",
+    "gravity": "无重力",
+    "gravity_slider": "无重力值: %.2f"
+  },
+  "visual": {
+    "peeking": "无虚化",
+    "fov_changer": "视野范围",
+    "fov_slider": "拓展范围: %.0f",
+    "costume_changer": "角色服裝更換",
+    "costume_character": "角色:",
+    "costume_current": "当前:",
+    "costume_refresh": "刷新列表",
+    "costume_count": "可使用:",
+    "costume_apply": "应用",
+    "costume_prev": "上一个",
+    "costume_next": "下一个",
+    "costume_reset": "重置",
+    "glide_changer": "降落伞",
+    "glide_current": "滑行:",
+    "glide_refresh": "刷新"
+  },
+  "esp": {
+    "enable_esp": "开启 ESP透视",
+    "esp_dist_slider": "%.0fm",
+    "enable_tracer": "开启追踪器",
+    "filters_label": "过滤",
+    "filter_all": "全部",
+    "filter_npc": "NPC",
+    "filter_enemy": "敌人",
+    "filter_oracle_stone": "谕石",
+    "filter_camera_viewpoint": "摄像机视野",
+    "filter_chest": "箱子",
+    "filter_other": "其他"
+  },
+  "teleport": {
+    "quest_tp": "任务传送",
+    "quest_tp_no_target": "任务传送（无目標）",
+    "collectibles_label": "收藏品",
+    "oracle_stone": "谕石",
+    "viewpoint": "地点位置",
+    "chest": "箱子",
+    "saved_locations_label": "保存的地点",
+    "save_pos_button": "保存位置",
+    "export_button": "导出",
+    "import_button": "导入",
+    "clear_button": "清空",
+    "prev_button": "上一个",
+    "next_button": "下一个",
+    "new_location_default": "新地点",
+    "tp_button": "传送",
+    "delete_button": "删除"
+  },
+  "settings": {
+    "toggle_hint": "[INSERT] 切換設定",
+    "save_config": "保存配置",
+    "load_config": "载入配置",
+    "unload": "卸载"
+  },
+  "keybind": {
+    "press_key": "按下任意鍵...",
+    "none": "无",
+    "hold": "按住",
+    "toggle": "切換"
+  }
+}

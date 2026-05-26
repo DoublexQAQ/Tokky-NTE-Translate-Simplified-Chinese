@@ -20,7 +20,7 @@
   },
   "combat": {
     "god_mode": "无敌",
-    "infinite_stamina": "无线体力",
+    "infinite_stamina": "无限体力",
     "always_crit": "必定暴击",
     "player_speed": "玩家速度",
     "player_speed_slider": "值: %.2f",

@@ -73,7 +73,7 @@
   },
   "teleport": {
     "quest_tp": "任务传送",
-    "quest_tp_no_target": "任务传送（无目標）",
+    "quest_tp_no_target": "任务传送（无目标）",
     "collectibles_label": "收藏品",
     "oracle_stone": "谕石",
     "viewpoint": "地点位置",

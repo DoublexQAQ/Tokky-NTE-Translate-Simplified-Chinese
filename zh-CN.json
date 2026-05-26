@@ -90,10 +90,10 @@
     "delete_button": "删除"
   },
   "settings": {
-    "toggle_hint": "[INSERT] 切换设定",
+    "toggle_hint": "[INSERT] 打开菜单",
     "save_config": "保存配置",
     "load_config": "载入配置",
-    "unload": "卸载"
+    "unload": "退出"
   },
   "keybind": {
     "press_key": "按下任意鍵...",

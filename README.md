@@ -1,4 +1,4 @@
-#Neverness To Everness cheat
+# Neverness To Everness cheat
 
 Supports Global & CN client
 
@@ -7,7 +7,7 @@ https://discord.gg/7c38bMcMK5
 Tokky-NTE-Translate-Simplified-Chinese.
 This repository is the Simplified Chinese translation of Tokky-NTE.
 
-#异环辅助
+# 异环辅助
 
 支持国际服和国服.
 

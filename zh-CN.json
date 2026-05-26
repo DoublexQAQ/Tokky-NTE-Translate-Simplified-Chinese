@@ -26,7 +26,7 @@
     "player_speed_slider": "值: %.2f",
     "multi_hit": "倍功",
     "multi_hit_slider": "段数: %d",
-    "no_skill_cooldown": "技能无冷卻時間",
+    "no_skill_cooldown": "技能无冷却",
     "unlock_all_awaken": "解锁全部",
     "mob_vacuum": "怪物吸引",
     "mob_vacuum_range": "范围: %.0fm"
@@ -59,7 +59,7 @@
     "glide_refresh": "刷新"
   },
   "esp": {
-    "enable_esp": "开启 ESP透视",
+    "enable_esp": "开启ESP透视",
     "esp_dist_slider": "%.0fm",
     "enable_tracer": "开启追踪器",
     "filters_label": "过滤",
